@@ -6,3 +6,4 @@ Számos R könyv ingyenes elérhető, és ezekben példákat találhatunk adatfo
 * R for Data Science (https://r4ds.had.co.nz/)
 * The Tidyverse Cookbook (https://rstudio-education.github.io/tidyverse-cookbook/)
 * Summary and Analysis of Extension Program Evaluation in R (http://rcompanion.org/handbook/) 
+* Statistical Inference via Data Science (https://moderndive.netlify.com)
