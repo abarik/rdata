@@ -8,3 +8,4 @@ Számos R könyv ingyenes elérhető, és ezekben példákat találhatunk adatfo
 * Summary and Analysis of Extension Program Evaluation in R (http://rcompanion.org/handbook/) 
 * Statistical Inference via Data Science (https://moderndive.netlify.com)
 * Data wrangling in R (https://jules32.github.io/2016-07-12-Oxford/dplyr_tidyr/)
+* ggplot2: Elegant Graphics for Data Analysis (https://ggplot2-book.org)
