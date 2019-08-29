@@ -1,0 +1,16 @@
+NEV	MAT.PONT	KORNY.PONT	NEME	DICSERET
+Éva	13	24	lány	0
+Zoli	16	31	fiú	0
+NA	17	40	NA	1
+Ilona	14	19	lány	0
+Zsolt	9	36	fiú	0
+Pál	11	31	Fiú	0
+Gyõzõ	17	29	fiú	0
+István	20	37	fiú	1
+Erika	12	18	lány	0
+Ervin	18	16	fiú	
+Tamás	13		fiú	0
+Mária	16	38	lány	1
+Sára	19	37	lány	1
+Tóbiás	12	26	fiú	0
+Ottó	15	27	fiú	0
