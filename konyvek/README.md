@@ -10,3 +10,4 @@ Számos R könyv ingyenes elérhető, és ezekben példákat találhatunk adatfo
 * Data wrangling in R (https://jules32.github.io/2016-07-12-Oxford/dplyr_tidyr/)
 * ggplot2: Elegant Graphics for Data Analysis (https://ggplot2-book.org)
 * Welcome to R Basics Course’s documentation! (https://perso.esiee.fr/~courivad/R/)
+* R Tutorial (https://www.datamentor.io/r-programming/color/)
