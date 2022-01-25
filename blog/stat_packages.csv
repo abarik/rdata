@@ -1,0 +1,58 @@
+ TYPE.OF.STATISTICAL.ANALYSIS;R; MATLAB;SAS;STATA; SPSS
+ Nonparametric Tests; Yes; Yes; Yes; Yes; Yes
+ T-test; Yes; Yes; Yes; Yes; Yes
+ ANOVA & MANOVA; Yes; Yes; Yes; Yes; Yes
+ ANCOVA & MANCOVA; Yes; Yes; Yes; Yes; Yes
+ Linear Regression; Yes; Yes; Yes; Yes; Yes
+ Generalized Least Squares; Yes; Yes; Yes ; Yes; Yes 
+ Ridge Regression; Yes; Yes; Yes ;;
+ Lasso; Yes; Yes; Yes ;;
+ Generalized Linear Models; Yes; Yes; Yes; Yes; Yes
+ Mixed Effects Models; Yes; Yes; Yes; Yes; Yes
+ Logistic Regression; Yes; Yes; Yes; Yes; Yes
+ Nonlinear Regression; Yes; Yes; Yes ;;
+ Discriminant Analysis; Yes; Yes; Yes ; Yes ; Yes 
+ Nearest Neighbor; Yes; Yes; Yes ;; Yes 
+ Factor & Principal Components Analysis; Yes; Yes; Yes; Yes; Yes
+ Copula Models; Yes; Yes; Experimental;;
+ Cross-Validation; Yes; Yes; Yes ;;
+ Bayesian Statistics; Yes; Yes; Limited;;
+ Monte Carlo, Classic Methods; Yes; Yes; Yes ; Yes ; Limited
+ Markov Chain Monte Carlo; Yes; Yes; Yes ;;
+ Bootstrap & Jackknife; Yes; Yes; Yes ; Yes ;
+ EM Algorithm; Yes; Yes; Yes ;;
+ Missing Data Imputation; Yes; Yes; Yes ; Yes ; Yes 
+ Outlier Diagnostics; Yes; Yes; Yes ; Yes ; Yes
+ Robust Estimation; Yes; Yes; Yes ; Yes ;
+ Longitudinal (Panel) Data; Yes; Yes; Yes ; Yes ; Limited
+ Survival Analysis; Yes; Yes; Yes ; Yes ; Yes 
+ Path Analysis; Yes; Yes; Yes ;;
+ Propensity Score Matching; Yes; Yes; Limited ; Limited ;
+ Stratified Samples (Survey Data); Yes; Yes; Yes ; Yes ; Yes 
+ Experimental Design; Yes; Yes;;;
+ Quality Control; Yes; Yes;; Yes ; Yes 
+ Reliability Theory; Yes; Yes; Yes ; Yes ; Yes
+ Univariate Time Series; Yes; Yes; Yes ; Yes ; Limited
+ Multivariate Time Series; Yes; Yes; Yes ; Yes ;
+ Markov Chains; Yes; Yes;;;
+ Hidden Markov Models; Yes; Yes;;;
+ Stochastic Volatility Models; Yes; Yes; Limited; Limited ; Limited 
+ Diffusions; Yes; Yes;;;
+ Counting Processes; Yes; Yes; Yes ;;
+ Filtering; Yes; Yes; Limited ; Limited;
+ Instrumental Variables; Yes; Yes; Yes; Yes ;
+ Simultaneous Equations; Yes; Yes; Yes ; Yes ;
+ Splines; Yes; Yes; Yes ; Yes;
+ Nonparametric Smoothing Methods; Yes; Yes; Yes ; Yes ;
+ Extreme Value Theory; Yes; Yes;;;
+ Variance Stabilization; Yes; Yes;;;
+ Cluster Analysis; Yes; Yes; Yes ; Yes ; Yes 
+ Neural Networks; Yes; Yes; Yes ;; Limited
+ Classification & Regression Trees; Yes; Yes; Yes ;; Limited
+ Boosting Classification & Regression Trees; Yes; Yes;;;
+ Random Forests; Yes; Yes;;;
+ Support Vector Machines; Yes; Yes; Yes;;
+ Signal Processing; Yes; Yes;;;
+ Wavelet Analysis; Yes; Yes; Yes;;
+ ROC Curves; Yes; Yes; Yes ; Yes ; Yes 
+ Optimization; Yes; Yes; Yes ; Limited;
